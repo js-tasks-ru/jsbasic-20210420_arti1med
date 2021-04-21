@@ -1,3 +1,3 @@
 function ucFirst(str) {
-    return  str.charAt(0).toUpperCase();
+    return  str.charAt(0).toUpperCase() + str.substring(1);
 }
