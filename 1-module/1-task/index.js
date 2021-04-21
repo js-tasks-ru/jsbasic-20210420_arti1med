@@ -1,8 +1,8 @@
 function factorial(n) {
-    let sum = n;
+    let factorialNumber = n;
     for (let i =1;i<n;i++){
-      sum *= (n-i);
+      factorialNumber *= (n-i);
     }
-    return sum;
+    return factorialNumber;
 }
-//Сорян что спамлю на гите)) Просто разбираюсь как все работает
+
