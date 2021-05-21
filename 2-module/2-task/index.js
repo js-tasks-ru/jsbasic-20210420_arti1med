@@ -5,4 +5,4 @@ function isEmpty(obj) {
   return false;
 }
 
-console.log(isEmpty(obj))
+isEmpty(obj)
